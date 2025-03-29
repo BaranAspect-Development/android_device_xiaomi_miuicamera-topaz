@@ -1,7 +1,7 @@
 From c434973114b4f3ba103edaa0b9f174d4f24846a7 Mon Sep 17 00:00:00 2001
 From: danielml <daniel@danielml.dev>
 Date: Sat, 22 Mar 2025 20:47:45 -0300
-Subject: [PATCH] miuicamera-garnet: Assume that mod_device is global
+Subject: [PATCH 03/07] Assume-that-mod_device-is-global
 
 Otherwise, the app tries to start a custom permissions dialog which
 has dependencies on HyperOS Security Center app

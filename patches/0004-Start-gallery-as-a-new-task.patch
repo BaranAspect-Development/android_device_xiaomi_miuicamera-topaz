@@ -1,7 +1,7 @@
 From 9398bf7dd670a16a27e944ab42a189376624a259 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sat, 22 Mar 2025 20:50:09 -0300
-Subject: [PATCH] miuicamera-garnet: Start gallery as a new task
+Subject: [PATCH 04/07] Start-gallery-as-a-new-task
 
 ---
  smali/com/android/camera/r3.smali | 5 +++++

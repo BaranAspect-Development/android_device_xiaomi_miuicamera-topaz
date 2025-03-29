@@ -1,7 +1,7 @@
 From 739ba07162bd3edfde421003f6c9f803932830c3 Mon Sep 17 00:00:00 2001
 From: Arian <arian.kulmer@web.de>
 Date: Sat, 22 Mar 2025 20:46:07 -0300
-Subject: [PATCH] miuicamera-garnet: support third party galleries
+Subject: [PATCH 02/07] Support-third-party-galleries
 
 ---
  smali/com/android/camera/r3.smali                    |  3 ---
