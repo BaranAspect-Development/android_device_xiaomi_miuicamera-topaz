@@ -19,6 +19,7 @@ from extract_utils.main import (
 
 namespace_imports = [
     'device/xiaomi/miuicamera-topaz',
+    'vendor/xiaomi/miuicamera-topaz',
 ]
 
 
